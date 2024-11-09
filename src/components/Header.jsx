@@ -120,25 +120,25 @@ function Header() {
             >
               Home
             </a>
-            <a
+            {/* <a
               href="./#tracks"
               className="p-2 lg:px-4 md:mx-2 text-gray-600 rounded hover:bg-gray-200 hover:text-gray-700 transition-colors duration-300"
             >
               Tracks
-            </a>
+            </a> */}
             <a
               href="/events"
               className="p-2 lg:px-4 md:mx-2 text-gray-600 rounded hover:bg-gray-200 hover:text-gray-700 transition-colors duration-300"
             >
               Events
             </a>
-            <a
+            {/* <a
               href="https://intern.cgfceg.org"
               target="_blank"
               className="p-2 lg:px-4 md:mx-2 text-gray-600 rounded hover:bg-gray-200 hover:text-gray-700 transition-colors duration-300"
             >
               Internships
-            </a>
+            </a> */}
             <a
               href="/about"
               className="p-2 lg:px-4 md:mx-2 text-gray-600 rounded hover:bg-gray-200 hover:text-gray-700 transition-colors duration-300"
@@ -157,13 +157,13 @@ function Header() {
             >
               Contact
             </a>
-            <a
+            {/* <a
               href="https://docs.google.com/forms/d/1JUDVoYiKLo0iIARLn1tQdka1d6k6spHRYsHJkoklU9w/edit"
               target="_blank"
               className="p-2 bg-blue-500 text-white lg:px-4 md:mx-2 rounded hover:bg-blue-600 transition-colors duration-300"
             >
               Join Our Team
-            </a>
+            </a> */}
             {/* <a href="#" className="p-2 lg:px-4 md:mx-2 text-indigo-600 text-center border border-transparent rounded hover:bg-indigo-100 hover:text-indigo-700 transition-colors duration-300">Login</a>
                     <a href="#" className="p-2 lg:px-4 md:mx-2 text-indigo-600 text-center border border-solid border-indigo-600 rounded hover:bg-indigo-600 hover:text-white transition-colors duration-300 mt-1 md:mt-0 md:ml-1">Signup</a> */}
           </div>
