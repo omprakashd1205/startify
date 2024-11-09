@@ -61,25 +61,25 @@ function Header() {
                     >
                       Home
                     </a>
-                    <a
+                    {/* <a
                       href="./#tracks"
                       className="sm:p-2 p-4 lg:px-4 md:mx-2 text-gray-600 rounded hover:bg-gray-200 hover:text-gray-700 transition-colors duration-300 text-xl"
                     >
                       Tracks
-                    </a>
+                    </a> */}
                     <a
                       href="/events"
                       className="sm:p-2 p-4 lg:px-4 md:mx-2 text-gray-600 rounded hover:bg-gray-200 hover:text-gray-700 transition-colors duration-300 text-xl"
                     >
                       Events
                     </a>
-                    <a
+                    {/* <a
                       href="https://intern.cgfceg.org"
                       target="_blank"
                       className="sm:p-2 p-4 lg:px-4 md:mx-2 text-gray-600 rounded hover:bg-gray-200 hover:text-gray-700 transition-colors duration-300 text-xl"
                     >
                       Internships
-                    </a>
+                    </a> */}
                     <a
                       href="/about"
                       className="sm:p-2 p-4 lg:px-4 md:mx-2 text-gray-600 rounded hover:bg-gray-200 hover:text-gray-700 transition-colors duration-300 text-xl"
@@ -98,13 +98,13 @@ function Header() {
                     >
                       Contact
                     </a>
-                    <a
+                    {/* <a
                       href="https://docs.google.com/forms/d/1JUDVoYiKLo0iIARLn1tQdka1d6k6spHRYsHJkoklU9w/edit"
                       target="_blank"
                       className="p-2 bg-blue-500 text-white lg:px-4 md:mx-2 rounded hover:bg-blue-600 transition-colors duration-300"
                     >
                       Join Our Team
-                    </a>
+                    </a> */}
                   </SheetDescription>
                 </SheetHeader>
               </SheetContent>
