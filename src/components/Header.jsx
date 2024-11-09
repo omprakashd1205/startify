@@ -27,7 +27,7 @@ function Header() {
             <a href="/" className="flex items-center">
               <img src={Logo} alt="mockup" className="d-block h-9 rounded" />
               <p className="ml-2 font-bold text-xl text-indigo-600 tracking-wide uppercase font-title">
-                Career Guidance Forum
+                Startify 3.0
               </p>
             </a>
             <Sheet>
@@ -50,7 +50,7 @@ function Header() {
                         className="d-block h-9 rounded"
                       />
                       <p className="ml-2 font-bold text-xl text-indigo-600 tracking-wide uppercase font-title">
-                        Career Guidance Forum
+                        Startify 3.0
                       </p>
                     </a>
                   </SheetTitle>
@@ -99,7 +99,8 @@ function Header() {
                       Contact
                     </a>
                     <a
-                      href="https://docs.google.com/forms/d/1JUDVoYiKLo0iIARLn1tQdka1d6k6spHRYsHJkoklU9w/edit" target="_blank"
+                      href="https://docs.google.com/forms/d/1JUDVoYiKLo0iIARLn1tQdka1d6k6spHRYsHJkoklU9w/edit"
+                      target="_blank"
                       className="p-2 bg-blue-500 text-white lg:px-4 md:mx-2 rounded hover:bg-blue-600 transition-colors duration-300"
                     >
                       Join Our Team
@@ -157,7 +158,8 @@ function Header() {
               Contact
             </a>
             <a
-              href="https://docs.google.com/forms/d/1JUDVoYiKLo0iIARLn1tQdka1d6k6spHRYsHJkoklU9w/edit" target="_blank"
+              href="https://docs.google.com/forms/d/1JUDVoYiKLo0iIARLn1tQdka1d6k6spHRYsHJkoklU9w/edit"
+              target="_blank"
               className="p-2 bg-blue-500 text-white lg:px-4 md:mx-2 rounded hover:bg-blue-600 transition-colors duration-300"
             >
               Join Our Team
