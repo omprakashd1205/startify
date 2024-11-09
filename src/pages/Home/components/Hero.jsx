@@ -17,7 +17,7 @@ const Hero = () => {
                             </div>
                         </div>
                         <div className='ml-auto sm:w-1/2'>
-                            <img src={HomeTracks} loading='lazy' alt='Tracks' className='' />
+{/*                             <img src={HomeTracks} loading='lazy' alt='Tracks' className='' /> */}
                         </div>
                     </div>
                 </div>
